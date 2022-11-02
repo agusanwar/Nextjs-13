@@ -1,9 +1,7 @@
-
-
-export default function Page(){
+export default function About() {
     return(
-
-    <div><h1>Hello</h1></div>
+        <div className="page">
+            <h1>About</h1>
+        </div>
     )
-
-}
+  }
